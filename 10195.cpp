@@ -19,10 +19,7 @@ int main (){
     else {
       printf ( "The radius of the round table is: 0.000\n");
     }
-   
-    
-    
-  }
-      
+ }
+     
   return 0;
 }
